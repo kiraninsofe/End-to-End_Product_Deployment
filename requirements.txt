@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+pickle5
+Pillow
+streamlit
+scikit_learn
